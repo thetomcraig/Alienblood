@@ -58,7 +58,7 @@ hi WarningMsg ctermfg=0 ctermbg=1
 
 " set textwidth=80
 " set colorcolumn=+1
-hi ColorColumn ctermfg=52 ctermbg=233
+hi ColorColumn ctermfg=52 ctermbg=234
 
 " set cursorline cursorcolumn
 hi CursorLine ctermfg=15 ctermbg=0
