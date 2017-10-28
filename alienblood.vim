@@ -1,11 +1,8 @@
-set t_Co=256
-
-hi Normal ctermfg=244 ctermbg=0
-hi LineNr ctermfg=243 ctermbg=233
-
-hi Visual ctermfg=15 ctermbg=22
-hi VisualNOS ctermfg=15 ctermbg=22
-
+set t_Co=256 
+hi Normal ctermfg=244 ctermbg=0 
+hi LineNr ctermfg=243 ctermbg=233 
+hi Visual ctermfg=15 ctermbg=22 
+hi VisualNOS ctermfg=15 ctermbg=22 
 hi Comment ctermfg=239 ctermbg=0
 
 hi Number ctermfg=1 ctermbg=0
@@ -61,7 +58,7 @@ hi WarningMsg ctermfg=0 ctermbg=1
 
 " set textwidth=80
 " set colorcolumn=+1
-hi ColorColumn ctermfg=235 ctermbg=0
+hi ColorColumn ctermfg=52 ctermbg=233
 
 " set cursorline cursorcolumn
 hi CursorLine ctermfg=15 ctermbg=0
