@@ -2,7 +2,7 @@
 set t_Co=256
 
 hi Normal ctermfg=244 ctermbg=0
-hi LineNr ctermfg=243 ctermbg=233
+hi LineNr ctermfg=100 ctermbg=0
 hi Visual ctermfg=15 ctermbg=22
 hi VisualNOS ctermfg=15 ctermbg=22
 hi Comment ctermfg=239 ctermbg=0
@@ -53,7 +53,7 @@ hi Exception ctermfg=214 ctermbg=0
 hi Structure ctermfg=97 ctermbg=0
 " hi Typedef ctermfg=
 hi Error ctermfg=0 ctermbg=1
-hi ErrorMsg ctermfg=244 ctermbg=1
+hi ErrorMsg ctermfg=231 ctermbg=1
 hi Underlined ctermfg=0 ctermbg=1
 "" Search hit bottom
 hi WarningMsg ctermfg=0 ctermbg=1
@@ -70,10 +70,10 @@ hi CursorColumn ctermfg=15 ctermbg=0
 hi Directory ctermfg=32 ctermbg=0
 
 hi VertSplit ctermfg=0 ctermbg=23
-hi Folded  ctermfg=0 ctermbg=8
+hi Folded  ctermfg=229 ctermbg=8
 
 " set foldcolumn=1
-hi FoldColumn ctermfg=0 ctermbg=8
+hi FoldColumn ctermfg=229 ctermbg=8
 
 hi MatchParen ctermfg=185 ctermbg=0
 
