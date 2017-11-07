@@ -30,25 +30,25 @@ let g:airline#themes#alienblood#palette = {}
 " to the dictionary.  The array is in the format:
 " [ guifg, guibg, ctermfg, ctermbg, opts ]. See "help attr-list" for valid
 " values for the "opt" value.
-let s:N1   = [ '#00005f' , '#dfff00' , 2  , 22 ]
-let s:N2   = [ '#ffffff' , '#444444' , 22 , 28 ]
-let s:N3   = [ '#9cffd3' , '#202020' , 3  , 0 ]
+let s:N1   = [ '#59ffa5' , '#006507' , 15  , 22 ]
+let s:N2   = [ '#59ffa5' , '#008f0e' , 15 , 28 ]
+let s:N3   = [ '#7f942d' , '#101e14' , 3  , 0 ]
 let g:airline#themes#alienblood#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
 " Here we define overrides for when the buffer is modified.  This will be
 " applied after g:airline#themes#alienblood#palette.normal, hence why only certain keys are
 " declared.
 let g:airline#themes#alienblood#palette.normal_modified = {
-      \ 'airline_c': [ '#ffffff' , '#5f005f' , 239     , 0      , ''     ] ,
+      \ 'airline_c': [ '#ffdc00' , '#101e14' , 220     , 0      , ''     ] ,
       \ }
 
 
-let s:I1 = [ '#00005f' , '#00dfff' , 27  , 17  ]
-let s:I2 = [ '#ffffff' , '#005fff' , 5 , 21  ]
-let s:I3 = [ '#ffffff' , '#000080' , 3  , 0  ]
+let s:I1   = [ '#00ead2' , '#005e88' , 14  , 24 ]
+let s:I2   = [ '#00ead2' , '#008b89' , 14 , 30 ]
+let s:I3   = [ '#7f942d' , '#101e14' , 3  , 0 ]
 let g:airline#themes#alienblood#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 let g:airline#themes#alienblood#palette.insert_modified = {
-      \ 'airline_c': [ '#ffffff' , '#5f005f' , 255     , 53      , ''     ] ,
+      \ 'airline_c': [ '#ffdc00' , '#101e14' , 220     , 0      , ''     ] ,
       \ }
 let g:airline#themes#alienblood#palette.insert_paste = {
       \ 'airline_a': [ s:I1[0]   , '#d78700' , s:I1[2] , 172     , ''     ] ,
@@ -60,18 +60,18 @@ let g:airline#themes#alienblood#palette.replace.airline_a = [ s:I2[0]   , '#af00
 let g:airline#themes#alienblood#palette.replace_modified = g:airline#themes#alienblood#palette.insert_modified
 
 
-let s:V1 = [ '#00005f' , '#00dfff' , 69  , 54  ]
-let s:V2 = [ '#ffffff' , '#005fff' , 75 , 57  ]
-let s:V3 = [ '#ffffff' , '#000080' , 3  , 0  ]
+let s:V1   = [ '#00b9e8' , '#0058b0' , 12  , 25 ]
+let s:V2   = [ '#00b9e8' , '#0087b1' , 12 , 31 ]
+let s:V3   = [ '#7f942d' , '#101e14' , 3  , 0 ]
 let g:airline#themes#alienblood#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
 let g:airline#themes#alienblood#palette.visual_modified = {
-      \ 'airline_c': [ '#ffffff' , '#5f005f' , 255     , 53      , ''     ] ,
+      \ 'airline_c': [ '#ffdc00' , '#d78700' , 255     , 53      , ''     ] ,
       \ }
 
 
-let s:IA1 = [ '#4e4e4e' , '#1c1c1c' , 239 , 234 , '' ]
-let s:IA2 = [ '#4e4e4e' , '#262626' , 239 , 235 , '' ]
-let s:IA3 = [ '#4e4e4e' , '#303030' , 239 , 236 , '' ]
+let s:IA1   = [ '#bcbcbc' , '#4b4b4b' , 250  , 243 ]
+let s:IA2   = [ '#bcbcbc' , '#767676' , 250 , 237 ]
+let s:IA3   = [ '#7f942d' , '#101e14' , 8  , 0 ]
 let g:airline#themes#alienblood#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)
 let g:airline#themes#alienblood#palette.inactive_modified = {
       \ 'airline_c': [ '#875faf' , '' , 97 , '' , '' ] ,
@@ -96,8 +96,7 @@ let g:airline#themes#alienblood#palette.accents = {
 " they will be chosen automatically from the existing palette.
 if get(g:, 'loaded_ctrlp', 0)
   let g:airline#themes#alienblood#palette.ctrlp = airline#extensions#ctrlp#generate_color_map(
-        \ [ '#d7d7ff' , '#5f00af' , 189 , 55  , ''     ],
-        \ [ '#ffffff' , '#875fd7' , 231 , 98  , ''     ],
-        \ [ '#5f00af' , '#ffffff' , 55  , 231 , 'bold' ])
+        \ [ '#bcbcbc' , '#4b4b4b',  250,   243, ''     ],
+        \ [ '#bcbcbc' , '#767676',  250,   237, ''     ],
+        \ [ '#7f942d' , '#101e14',   8,  , 'bold' ])
 endif
-
