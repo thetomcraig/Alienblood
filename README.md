@@ -13,7 +13,7 @@ Tmux Colors:
 Alfred App Theme:  
 ![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/alfred.png "Alien Blood")  
 
-Instllation
+Installation
 ===  
 The instll script `install_all.sh` will install the following:  
     * the vim colorscheme file file (assumes brew install of vim)  
