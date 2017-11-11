@@ -15,7 +15,11 @@ Alfred App Theme:
 
 Instllation
 ===  
+The instll script `install_all.sh` will install the following:  
+    * the vim colorscheme file file (assumes brew install of vim)  
+    * the vim airline colorscheme file file (assumes vundle install of vim airline)  
+    * the testing file `cst.vim` this can be used to alter the vim colorscheme easily  
 
 
-
+Credits:  
 Original theme [here](https://github.com/mbadolato/iTerm2-Color-Schemes#alienblood)
