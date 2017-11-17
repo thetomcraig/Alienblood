@@ -70,10 +70,10 @@ hi CursorColumn ctermfg=15 ctermbg=0
 hi Directory ctermfg=32 ctermbg=0
 
 hi VertSplit ctermfg=0 ctermbg=23
-hi Folded  ctermfg=229 ctermbg=8
+hi Folded  ctermfg=232 ctermbg=237
 
 " set foldcolumn=1
-hi FoldColumn ctermfg=229 ctermbg=8
+hi FoldColumn ctermfg=232 ctermbg=237
 
 hi MatchParen ctermfg=185 ctermbg=0
 
@@ -115,6 +115,10 @@ hi Title ctermfg=202 ctermbg=0
 " Sign column
 hi SignColumn ctermfg=190 ctermbg=0
 
+hi DiffAdd  ctermfg=7 ctermbg=22
+hi DiffDelete ctermfg=7 ctermbg=88
+hi DiffChange ctermfg=0 ctermbg=136
+hi DiffText  ctermfg=16 ctermbg=136
 
 " ALE
 hi ALEErrorSign ctermfg=0 ctermbg=52
