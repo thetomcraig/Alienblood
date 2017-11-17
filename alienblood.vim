@@ -117,20 +117,20 @@ hi SignColumn ctermfg=190 ctermbg=0
 
 
 " ALE
-hi ALEErrorSign ctermfg=0 ctermbg=1
-hi ALEError ctermfg=0 ctermbg=1
-"hi ALEErrorLine ctermfg=0 ctermbg=1
-hi ALEErrorSign ctermfg=0 ctermbg=1
-hi ALEInfo ctermfg=0 ctermbg=1
-hi ALEInfoSign ctermfg=0 ctermbg=1
-hi ALEInfoLine ctermfg=0 ctermbg=1
+hi ALEErrorSign ctermfg=0 ctermbg=52
+hi ALEError ctermfg=0 ctermbg=52
+"hi ALEErrorLine ctermfg=0 ctermbg=52
+hi ALEErrorSign ctermfg=0 ctermbg=52
+hi ALEInfo ctermfg=0 ctermbg=52
+hi ALEInfoSign ctermfg=0 ctermbg=52
+hi ALEInfoLine ctermfg=0 ctermbg=52
 
-hi ALEWarningSign ctermfg=0 ctermbg=202
-hi ALEStyleError ctermfg=0 ctermbg=202
-hi ALEStyleErrorSign ctermfg=0 ctermbg=202
-hi ALEStyleWarning ctermfg=0 ctermbg=202
-hi ALEStyleWarningSign ctermfg=0 ctermbg=202
-hi ALEWarning ctermfg=0 ctermbg=202
-"hi ALEWarningLine ctermfg=0 ctermbg=202
-hi ALEWarningSign ctermfg=0 ctermbg=202
+hi ALEWarningSign ctermfg=0 ctermbg=58
+hi ALEStyleError ctermfg=0 ctermbg=58
+hi ALEStyleErrorSign ctermfg=0 ctermbg=58
+hi ALEStyleWarning ctermfg=0 ctermbg=58
+hi ALEStyleWarningSign ctermfg=0 ctermbg=58
+hi ALEWarning ctermfg=0 ctermbg=58
+"hi ALEWarningLine ctermfg=0 ctermbg=58
+hi ALEWarningSign ctermfg=0 ctermbg=58
 
