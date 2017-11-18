@@ -4,4 +4,4 @@ cp cst.vim /usr/local/share/vim/${vim_dir}/syntax/
 cp alienblood.vim /usr/local/share/vim/${vim_dir}/colors/
 
 # Asumming a VUNDLE install of airline
-cp alienblood_airline.vim ${HOME}/.vim/bundle/vim-airline/autoload/airline/themes/
+cp alienblood_airline.vim ${HOME}/.vim/bundle/vim-airline/autoload/airline/themes/alienblood.vim
