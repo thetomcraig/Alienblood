@@ -138,3 +138,11 @@ hi ALEWarning ctermfg=0 ctermbg=58
 "hi ALEWarningLine ctermfg=0 ctermbg=58
 hi ALEWarningSign ctermfg=0 ctermbg=58
 
+hi MBENormal ctermfg=22 ctermbg=0
+hi MBEChanged ctermfg=15 ctermbg=0
+hi MBEVisibleNormal ctermfg=15 ctermbg=22
+hi MBEVisibleChanged ctermfg=22 ctermbg=0
+hi MBEVisibleActiveNormal ctermfg=15 ctermbg=22
+hi MBEVisibleActiveChanged ctermfg=166  ctermbg=88
+"hi MBEVisibleChanged ctermfg=202 ctermbg=1
+
