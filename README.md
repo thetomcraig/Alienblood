@@ -1,5 +1,5 @@
-# Alienblood
-Collection of themes/resources based on the iTerm theme "alienblood"
+# Xenomorph
+Collection of themes/resources based on the iTerm theme "alienblood", with inspiration from other sources.
 
 Palette:  
 ![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/alien_blood.png "Palette")  
@@ -8,18 +8,18 @@ Vim Colors:
 ![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/vim_colors.png "Vim")  
 
 Tmux Colors:  
-![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/tmux.png "Alien Blood")  
+![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/tmux.png "Xenomorph")  
 
 Alfred App Theme:  
-![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/alfred.png "Alien Blood")  
+![alt text]("Xenomorph")  
 
-Installation
-===  
-The instll script `install_all.sh` will install the following:  
-    * the vim colorscheme file file (assumes brew install of vim)  
-    * the vim airline colorscheme file file (assumes vundle install of vim airline)  
-    * the testing file `cst.vim` this can be used to alter the vim colorscheme easily  
+#### Installation
+### Vim
+### Emacs
+### Tmux
 
 
-Credits:  
-Original theme [here](https://github.com/mbadolato/iTerm2-Color-Schemes#alienblood)
+
+Credits/Thanks:  
+Original iTerm theme [here](https://github.com/mbadolato/iTerm2-Color-Schemes#alienblood)
+Inspired by emacs theme [here](https://github.com/jstaursky/weyland-yutani-theme)
