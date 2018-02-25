@@ -11,7 +11,7 @@ Tmux Colors:
 ![alt text](https://github.com/thetomcraig/Alienblood/blob/master/screenshots/tmux.png "Xenomorph")  
 
 Alfred App Theme:  
-![alt text]("Xenomorph")  
+![alt text](https://github.com/thetomcraig/Xenomorph/blob/master/Xenomorph.alfredappearance "Xenomorph")  
 
 #### Installation
 ### Vim
