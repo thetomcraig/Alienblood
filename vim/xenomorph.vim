@@ -121,22 +121,22 @@ hi DiffChange ctermfg=0 ctermbg=136
 hi DiffText  ctermfg=16 ctermbg=136
 
 " ALE
-hi ALEErrorSign ctermfg=0 ctermbg=52
-hi ALEError ctermfg=0 ctermbg=52
-"hi ALEErrorLine ctermfg=0 ctermbg=52
-hi ALEErrorSign ctermfg=0 ctermbg=52
-hi ALEInfo ctermfg=0 ctermbg=52
-hi ALEInfoSign ctermfg=0 ctermbg=52
-hi ALEInfoLine ctermfg=0 ctermbg=52
+hi ALEErrorSign ctermfg=7 ctermbg=52
+hi ALEError ctermfg=7 ctermbg=52
+"hi ALEErrorLine ctermfg=7 ctermbg=52
+hi ALEErrorSign ctermfg=7 ctermbg=52
+hi ALEInfo ctermfg=7 ctermbg=52
+hi ALEInfoSign ctermfg=7 ctermbg=52
+hi ALEInfoLine ctermfg=7 ctermbg=52
 
-hi ALEWarningSign ctermfg=0 ctermbg=58
-hi ALEStyleError ctermfg=0 ctermbg=58
-hi ALEStyleErrorSign ctermfg=0 ctermbg=58
-hi ALEStyleWarning ctermfg=0 ctermbg=58
-hi ALEStyleWarningSign ctermfg=0 ctermbg=58
-hi ALEWarning ctermfg=0 ctermbg=58
-"hi ALEWarningLine ctermfg=0 ctermbg=58
-hi ALEWarningSign ctermfg=0 ctermbg=58
+hi ALEWarningSign ctermfg=11 ctermbg=58
+hi ALEStyleError ctermfg=11 ctermbg=58
+hi ALEStyleErrorSign ctermfg=11 ctermbg=58
+hi ALEStyleWarning ctermfg=11 ctermbg=58
+hi ALEStyleWarningSign ctermfg=11 ctermbg=58
+hi ALEWarning ctermfg=11 ctermbg=58
+"hi ALEWarningLine ctermfg=11 ctermbg=58
+hi ALEWarningSign ctermfg=11 ctermbg=58
 
 hi MBENormal ctermfg=22 ctermbg=0
 hi MBEChanged ctermfg=15 ctermbg=0
