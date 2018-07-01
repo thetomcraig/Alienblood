@@ -52,11 +52,11 @@ hi Exception ctermfg=214 ctermbg=0
 " hi StorageClass ctermfg=
 hi Structure ctermfg=97 ctermbg=0
 " hi Typedef ctermfg=
-hi Error ctermfg=0 ctermbg=1
+hi Error ctermfg=250 ctermbg=88
 hi ErrorMsg ctermfg=231 ctermbg=1
 hi Underlined ctermfg=0 ctermbg=1
 "" Search hit bottom
-hi WarningMsg ctermfg=0 ctermbg=1
+hi WarningMsg ctermfg=250 ctermbg=88
 
 " set textwidth=80
 " set colorcolumn=+1
@@ -115,28 +115,28 @@ hi Title ctermfg=202 ctermbg=0
 " Sign column
 hi SignColumn ctermfg=190 ctermbg=0
 
-hi DiffAdd  ctermfg=7 ctermbg=22
-hi DiffDelete ctermfg=7 ctermbg=88
-hi DiffChange ctermfg=0 ctermbg=136
-hi DiffText  ctermfg=16 ctermbg=136
+hi DiffAdd  ctermfg=15 ctermbg=22
+hi DiffDelete ctermfg=9 ctermbg=52
+hi DiffChange ctermfg=0 ctermbg=60
+hi DiffText  ctermfg=250 ctermbg=60
 
 " ALE
-hi ALEErrorSign ctermfg=7 ctermbg=52
-hi ALEError ctermfg=7 ctermbg=52
-"hi ALEErrorLine ctermfg=7 ctermbg=52
-hi ALEErrorSign ctermfg=7 ctermbg=52
-hi ALEInfo ctermfg=7 ctermbg=52
-hi ALEInfoSign ctermfg=7 ctermbg=52
-hi ALEInfoLine ctermfg=7 ctermbg=52
+hi ALEErrorSign ctermfg=250 ctermbg=88
+hi ALEError ctermfg=250 ctermbg=88
+"hi ALEErrorLine ctermfg=250 ctermbg=88
+hi ALEErrorSign ctermfg=250 ctermbg=88
+hi ALEInfo ctermfg=250 ctermbg=88
+hi ALEInfoSign ctermfg=250 ctermbg=88
+hi ALEInfoLine ctermfg=250 ctermbg=88
 
-hi ALEWarningSign ctermfg=11 ctermbg=58
-hi ALEStyleError ctermfg=11 ctermbg=58
-hi ALEStyleErrorSign ctermfg=11 ctermbg=58
-hi ALEStyleWarning ctermfg=11 ctermbg=58
-hi ALEStyleWarningSign ctermfg=11 ctermbg=58
-hi ALEWarning ctermfg=11 ctermbg=58
-"hi ALEWarningLine ctermfg=11 ctermbg=58
-hi ALEWarningSign ctermfg=11 ctermbg=58
+hi ALEWarningSign ctermfg=250 ctermbg=58
+hi ALEStyleError ctermfg=250 ctermbg=58
+hi ALEStyleErrorSign ctermfg=250 ctermbg=58
+hi ALEStyleWarning ctermfg=250 ctermbg=58
+hi ALEStyleWarningSign ctermfg=250 ctermbg=58
+hi ALEWarning ctermfg=250 ctermbg=58
+"hi ALEWarningLine ctermfg=250 ctermbg=58
+hi ALEWarningSign ctermfg=250 ctermbg=58
 
 hi MBENormal ctermfg=22 ctermbg=0
 hi MBEChanged ctermfg=15 ctermbg=0
