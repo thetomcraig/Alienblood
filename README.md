@@ -1,23 +1,19 @@
 # Xenomorph
 Collection of themes/resources based on the iTerm theme "alienblood", with inspiration from other sources.
 
-Palette:  
+Color Palette:  
 ![alt text](screenshots/all_colors.png?raw=true "Palette")  
 
-Vim Colors:  
+Vim Theme:  
+[Vim theme found here](https://github.com/thetomcraig/xenomorph.vim)  
 ![alt text](screenshots/vim_colors.png?raw=true "Vim")  
 
 Tmux Colors:  
+TODO: separate tmux into its own repo
 ![alt text](screenshots/tmux.png?raw=true "Tmux")  
 
 Alfred App Theme:  
 ![alt text](screenshots/alfred_main.png?raw=true "Alfred")  
-
-#### Installation
-### Vim
-### Emacs
-### Tmux
-
 
 
 Credits/Thanks:  
