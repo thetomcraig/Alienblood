@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#80F4A0FF",
+        "font" : "System",
+        "color" : "#16301DFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#172518FF",
+        "font" : "System",
+        "color" : "#586C91FF"
+      },
+      "backgroundSelected" : "#111D14FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#80F5A1FF",
+        "font" : "Menlo",
+        "color" : "#111D14FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#778E87FF",
+      "spacing" : 8,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#000000FF",
+        "font" : "Menlo",
+        "color" : "#111D14FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "scrollbar" : {
+      "color" : "#586C91FF",
+      "thickness" : 2
+    },
+    "window" : {
+      "color" : "#778E87FF",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 3,
+      "paddingVertical" : 8
+    },
+    "credit" : "Tom Craig",
+    "name" : "Xenomorph Light"
+  }
+}
