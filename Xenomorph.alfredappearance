@@ -1,114 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>background</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAYY=
-	</data>
-	<key>border</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/HwcD2Dubi4PYOBgIA9AIY=
-	</data>
-	<key>cornerRoundness</key>
-	<integer>3</integer>
-	<key>credits</key>
-	<string></string>
-	<key>imageStyle</key>
-	<integer>0</integer>
-	<key>name</key>
-	<string>Alien Blood</string>
-	<key>resultPaddingSize</key>
-	<integer>2</integer>
-	<key>resultSelectedBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAYY=
-	</data>
-	<key>resultSelectedSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4+Ojj6Dr66uPoP9/Pw+AYY=
-	</data>
-	<key>resultSelectedTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4+Ojj6Dr66uPoP9/Pw+AYY=
-	</data>
-	<key>resultSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg7uT4T6DEXcCP4POUAQ/AYY=
-	</data>
-	<key>resultSubtextFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>resultSubtextFontSize</key>
-	<integer>1</integer>
-	<key>resultTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8nIyD6D+/r6PoPr6uo+AYY=
-	</data>
-	<key>resultTextFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>resultTextFontSize</key>
-	<integer>1</integer>
-	<key>scrollbarColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAg83MzD2G
-	</data>
-	<key>searchBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAYY=
-	</data>
-	<key>searchFont</key>
-	<string>Courier</string>
-	<key>searchFontSize</key>
-	<integer>2</integer>
-	<key>searchForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8nIyD6D+/r6PoPr6uo+AYY=
-	</data>
-	<key>searchPaddingSize</key>
-	<integer>0</integer>
-	<key>searchSelectionBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMGhANA
-	QECEhIQITlNTdHJpbmcBlIQBKwZTeXN0ZW2GhJaYG3NlbGVjdGVkVGV4dEJhY2tncm91
-	bmRDb2xvcoaEk5UDhAJmZoOrqio/AYaG
-	</data>
-	<key>searchSelectionForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZgABhg==
-	</data>
-	<key>separatorColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAAIY=
-	</data>
-	<key>shortcutColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8nIyD6D+/r6PoPr6uo+AYY=
-	</data>
-	<key>shortcutFont</key>
-	<string>Helvetica Neue Light</string>
-	<key>shortcutFontSize</key>
-	<integer>2</integer>
-	<key>shortcutSelectedColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg2ZmJj+DZmYmP4NmZiY/AYY=
-	</data>
-	<key>uid</key>
-	<string>alfred.theme.custom.78DF261B-B855-49A5-BE1F-485D6298EF07</string>
-	<key>widthSize</key>
-	<integer>2</integer>
-</dict>
-</plist>
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#80F4A0FF",
+        "font" : "System",
+        "color" : "#768F88FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#172518FF",
+        "font" : "System",
+        "color" : "#586C91FF"
+      },
+      "backgroundSelected" : "#398D31FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#80F5A1FF",
+        "font" : "Menlo",
+        "color" : "#768F88FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#111C12FF",
+      "spacing" : 8,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#000000FF",
+        "font" : "Menlo",
+        "color" : "#768F88FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#111C12FF",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 3,
+      "paddingVertical" : 8
+    },
+    "credit" : "Tom Craig",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#586C91FF",
+      "thickness" : 2
+    },
+    "name" : "Xenomorph"
+  }
+}
