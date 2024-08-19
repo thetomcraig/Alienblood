@@ -1,4 +1,4 @@
-# Xenomorph
+# AlienBlood
 Collection of themes/resources based on the iTerm theme "alienblood", with inspiration from other sources.
 
 Color Palette:  
